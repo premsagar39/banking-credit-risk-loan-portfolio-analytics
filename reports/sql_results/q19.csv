@@ -1,0 +1,4 @@
+StatusGroup,Loans,FundedAmount,OutstandingPrincipal
+Default,40,574025.000000,382933.090000
+Late / grace,34252,588512650.000000,384240613.490000
+Resolved bad,269320,4185026250.000000,0.000000

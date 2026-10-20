@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "Loan_Portfolio"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "80e7113c-8059-4090-bb96-3924edef8d5b"
+  }
+}

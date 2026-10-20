@@ -1,0 +1,10 @@
+LoanStatus,Loans,FundedAmount,LoanShare
+Fully Paid,1076751,15210022825.000000,0.4763
+Current,878317,14002818250.000000,0.3885
+Charged Off,268559,4177988425.000000,0.1188
+Late (31-120 days),21467,363792975.000000,0.0095
+In Grace Period,8436,149085700.000000,0.0037
+Late (16-30 days),4349,75633975.000000,0.0019
+Does not meet the credit policy. Status:Fully Paid,1988,17254600.000000,0.0009
+Does not meet the credit policy. Status:Charged Off,761,7037825.000000,0.0003
+Default,40,574025.000000,0.0000

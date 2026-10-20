@@ -1,0 +1,191 @@
+{
+  "Q01": {
+    "rows": 1,
+    "columns": [
+      "Loans",
+      "FundedAmount",
+      "OutstandingPrincipal",
+      "MeanInterestRate",
+      "WeightedInterestRate",
+      "ResolvedLoans",
+      "BadResolvedLoans",
+      "BadResolvedShare"
+    ]
+  },
+  "Q02": {
+    "rows": 9,
+    "columns": [
+      "LoanStatus",
+      "Loans",
+      "FundedAmount",
+      "LoanShare"
+    ]
+  },
+  "Q03": {
+    "rows": 7,
+    "columns": [
+      "Grade",
+      "Loans",
+      "FundedAmount",
+      "ResolvedShare",
+      "BadResolvedShare"
+    ]
+  },
+  "Q04": {
+    "rows": 35,
+    "columns": [
+      "SubGrade",
+      "n",
+      "p",
+      "WilsonLower95",
+      "WilsonUpper95"
+    ]
+  },
+  "Q05": {
+    "rows": 12,
+    "columns": [
+      "VintageYear",
+      "Loans",
+      "FundedAmount",
+      "ResolvedShare",
+      "BadResolvedShare"
+    ]
+  },
+  "Q06": {
+    "rows": 139,
+    "columns": [
+      "IssueMonth",
+      "Loans",
+      "FundedAmount",
+      "MoMGrowth"
+    ]
+  },
+  "Q07": {
+    "rows": 14,
+    "columns": [
+      "Purpose",
+      "Loans",
+      "FundedAmount",
+      "FundingShare",
+      "BadResolvedShare"
+    ]
+  },
+  "Q08": {
+    "rows": 51,
+    "columns": [
+      "State",
+      "Loans",
+      "FundedAmount",
+      "FundingRank"
+    ]
+  },
+  "Q09": {
+    "rows": 24,
+    "columns": [
+      "IncomeBand",
+      "DtiBand",
+      "Loans",
+      "AverageIncome",
+      "ResolvedLoans",
+      "BadResolvedShare"
+    ]
+  },
+  "Q10": {
+    "rows": 2,
+    "columns": [
+      "TermMonths",
+      "Loans",
+      "AverageRate",
+      "ResolvedShare",
+      "BadResolvedShare"
+    ]
+  },
+  "Q11": {
+    "rows": 4,
+    "columns": [
+      "FicoBand",
+      "Loans",
+      "ResolvedLoans",
+      "BadResolvedShare"
+    ]
+  },
+  "Q12": {
+    "rows": 14,
+    "columns": [
+      "ApplicationType",
+      "Grade",
+      "Loans",
+      "FundedAmount",
+      "ResolvedLoans",
+      "BadResolvedShare"
+    ]
+  },
+  "Q13": {
+    "rows": 4,
+    "columns": [
+      "SizeBand",
+      "Loans",
+      "AverageRate",
+      "BadResolvedShare"
+    ]
+  },
+  "Q14": {
+    "rows": 4,
+    "columns": [
+      "IncomeBand",
+      "Loans",
+      "MeanLoanIncomeRatio",
+      "BadResolvedShare"
+    ]
+  },
+  "Q15": {
+    "rows": 7,
+    "columns": [
+      "Grade",
+      "OutstandingPrincipal",
+      "ExposureShare"
+    ]
+  },
+  "Q16": {
+    "rows": 1,
+    "columns": [
+      "StateFundingHHI"
+    ]
+  },
+  "Q17": {
+    "rows": 51,
+    "columns": [
+      "State",
+      "Grade",
+      "FundedAmount",
+      "rn"
+    ]
+  },
+  "Q18": {
+    "rows": 6,
+    "columns": [
+      "HomeOwnership",
+      "Loans",
+      "ResolvedLoans",
+      "BadResolvedShare"
+    ]
+  },
+  "Q19": {
+    "rows": 3,
+    "columns": [
+      "StatusGroup",
+      "Loans",
+      "FundedAmount",
+      "OutstandingPrincipal"
+    ]
+  },
+  "Q20": {
+    "rows": 139,
+    "columns": [
+      "IssueMonth",
+      "FundedAmount",
+      "PriorYearFunding",
+      "YoYGrowth"
+    ]
+  }
+}

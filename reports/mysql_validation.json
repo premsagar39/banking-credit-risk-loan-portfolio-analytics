@@ -1,0 +1,27 @@
+{
+  "engine": "MySQL 8.0.46",
+  "queries_executed": 20,
+  "all_kpi_reconciliations_pass": true,
+  "checks": {
+    "Loans": {
+      "python": 2260668,
+      "mysql": 2260668.0,
+      "matches": true
+    },
+    "FundedAmount": {
+      "python": 34004208600.0,
+      "mysql": 34004208600.0,
+      "matches": true
+    },
+    "ResolvedLoans": {
+      "python": 1348059,
+      "mysql": 1348059.0,
+      "matches": true
+    },
+    "BadResolvedLoans": {
+      "python": 269320,
+      "mysql": 269320.0,
+      "matches": true
+    }
+  }
+}
