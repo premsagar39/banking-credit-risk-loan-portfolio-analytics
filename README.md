@@ -67,6 +67,10 @@ Current report: **5 pages, 26 DAX measures and 21 SQL analyses**.
 
 [Report notes](powerbi/REPORT_NOTES.md) contain the date, scope and interpretation details behind the visuals.
 
+## Dashboard layout
+
+Portfolio details occupy the central column, with funding and outcome comparisons beside them. Navigation sits above the KPI band.
+
 ## Dashboard controls
 
 The redesigned report adds page navigation, collapsible synchronized filters, metric and ranking views, a contextual tooltip page and a drillthrough detail page. Light and dark themes are included. Display bookmarks preserve filter selections; existing SQL, DAX and imported data are retained. See the [control guide](docs/dashboard-controls.md) and [Power BI source](powerbi/Loan_Portfolio.Report).
