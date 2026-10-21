@@ -87,7 +87,7 @@
             "text": {
               "expr": {
                 "Literal": {
-                  "Value": "'Outcome gap versus selected vintages (pp)'"
+                  "Value": "'Outcome Gap (pp)'"
                 }
               }
             },

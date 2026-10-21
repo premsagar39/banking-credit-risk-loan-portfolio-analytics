@@ -1,4 +1,4 @@
-# Banking Credit Risk and Loan Portfolio Analytics
+# Loan Portfolio Analytics
 
 A descriptive review of LendingClub's historical accepted-loan portfolio. The analysis separates resolved outcomes from current exposure so that grade and vintage comparisons have an explicit denominator.
 
@@ -64,3 +64,5 @@ Code and original documentation use the MIT license. Source datasets retain thei
 Vintage comparison adds a focused review page with two contextual measures, a comparison table, chart tooltips and a project-specific theme. Compare outcomes alongside resolved coverage. Gaps are percentage points versus selected vintages, retain grade filters, and do not adjust for maturity. SQL Q21 provides the related aggregate analysis. See [enhancement checks](reports/COMPARISON_VALIDATION.md).
 
 Current report: **5 pages, 26 DAX measures and 21 SQL analyses**.
+
+[Report notes](powerbi/REPORT_NOTES.md) contain the date, scope and interpretation details behind the visuals.

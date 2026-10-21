@@ -16,8 +16,8 @@
   },
   {
     "path": "README.md",
-    "bytes": 4788,
-    "sha256": "744e87bfa09917e3d8fcadfc267cd84c040663f86bc4a1eccfc3868f5ed67f93"
+    "bytes": 4878,
+    "sha256": "2040e5ac493cb7eed6e7b7cf419081a5ceeb7bf5dc3b4084f3bd051655a0d3bc"
   },
   {
     "path": "data/exports/comparison_review.csv",
@@ -101,293 +101,268 @@
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/comparison/page.json",
-    "bytes": 770,
-    "sha256": "70e96fcc5407d020c4169f60283a6c780f95f019fe4152b744e325c3d7bac973"
+    "bytes": 772,
+    "sha256": "0c984579fd3791958bc2cfa73f93cf2d857fddeced67e268d9cec158cd5a5cf7"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/comparison/visuals/0ac86e77fced5089895c/visual.json",
-    "bytes": 5940,
-    "sha256": "3c52f2ce6a5e348233a4ce0483131c06aa17bb3e58fcb90e586930d56c637034"
+    "bytes": 5928,
+    "sha256": "152ba921bd8e09b03bf590902fa8729eccb5049b8255b53776bf12f196b20f4a"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/comparison/visuals/26bb11d8b1365174a6f4/visual.json",
-    "bytes": 3435,
-    "sha256": "6e5b583fd24fa86caca4dcb463ea2bb42e9f5585987ea1e5f78b4cd135965d0b"
+    "bytes": 3437,
+    "sha256": "bf42e97552f2066bcefe9aa1d674ffcfab9a5070c0f3044923a9e837873af2f2"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/comparison/visuals/7e3703e92daa57a992dd/visual.json",
-    "bytes": 5008,
-    "sha256": "ffe5652032757aca1ba471b83434abd8347f33ddcd6782b166daabb383ead0e5"
+    "bytes": 4985,
+    "sha256": "b773fe3f1ff02ef607eae574cd56ffd799240de5c7d23fe40d05effc5d31bb12"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/comparison/visuals/877fa5104d045fa4b0de/visual.json",
-    "bytes": 5876,
-    "sha256": "df1a198913e8f290229a8fc59e3d7a7e8948a166a4c432b2d1c77fb445d9ba56"
-  },
-  {
-    "path": "powerbi/Loan_Portfolio.Report/definition/pages/comparison/visuals/c707cfd1334c59e3a2c7/visual.json",
-    "bytes": 1596,
-    "sha256": "d67ca47311147d1cd3857ca178efa10fbb8e4d15f2f49fe9306bc50c7afedbf5"
+    "bytes": 5849,
+    "sha256": "c669db7d25075eace5383d26c00463d3b75ed89b772f56f3b1d4ec0621471eae"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/comparison/visuals/d98be12295b65e02ab54/visual.json",
-    "bytes": 1462,
-    "sha256": "5486134b3a7a1afa7f5e2241b061ea27252662b6b4e025aec928a006bd2e8330"
+    "bytes": 1464,
+    "sha256": "3389b789fa2cba0827c825b77504fb91754d708180c08e92848e3fdafdde2405"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p1/page.json",
-    "bytes": 606,
-    "sha256": "0e84c064f572eabb5e9e53c1a5e11c5478711462a284998ee9a0191ab27f7960"
+    "bytes": 614,
+    "sha256": "e02bed1a88e7ff337f6ca2135bac9d9e615f0f6e940f98a9987061988426509f"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p1/visuals/09a41e37f45d4529aa1a/visual.json",
-    "bytes": 3922,
-    "sha256": "4c205992486532bee6fdf0fddde1f6e6d626290410009bb3e7a41694f5c1e84e"
+    "bytes": 3924,
+    "sha256": "3651e6cccbca6d73f5c2f1f8d9e85df104da17762bb535f27f8fb04271273c77"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p1/visuals/1eab1b85340244a184f4/visual.json",
-    "bytes": 4268,
-    "sha256": "fe76b296974868b3dac5266a9266e312d95aa6ed81dc583dbdee15e9d44bbad4"
+    "bytes": 4270,
+    "sha256": "4be33bca16c19ce5fce694474633ed576ced1593e4d4b08c60e72fe8743e4c15"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p1/visuals/2d09608ea21d4764952a/visual.json",
-    "bytes": 3921,
-    "sha256": "3e886ab210b06a68ed5d42c5d0f0c970bc476d05cd609ddb209710b499119513"
+    "bytes": 3923,
+    "sha256": "f040817e42f56b9c58387d87969f8b226bbd8f8e73713d47417df45d67243946"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p1/visuals/2d1d497ddaf9455dadbe/visual.json",
-    "bytes": 3248,
-    "sha256": "636a338323ea677db00bef7b2fcd3ad4a92061b39d13a75abee77eeb14d1c45c"
+    "bytes": 3250,
+    "sha256": "9af770eab242165252ec73acf11ff16faa93a98a3067326184598fef9e24ccdb"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p1/visuals/3249c05f381a4a0c83db/visual.json",
-    "bytes": 3935,
-    "sha256": "5fb0c698a581bfabffe78d063bde2abc8291299ab46c54e21832c2d141324c0b"
+    "bytes": 3937,
+    "sha256": "0ccd94f6637940b105fb51d59ae443a004399d4207ba8c586d553c4f9c486817"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p1/visuals/5c12ab984a39423d9ead/visual.json",
-    "bytes": 4370,
-    "sha256": "1804a104e49db482791610e091a20e4bf85f2147230997da77550f17772e4eda"
+    "bytes": 4372,
+    "sha256": "ba10d48827eb69824ccf11f8d61d97233fc6c9e46238d8f9447b3027dbdcb12e"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p1/visuals/675e09329f7144ca9d01/visual.json",
-    "bytes": 4021,
-    "sha256": "c59e1fcf206b33f87acc81117601f0ebf5c4d14c4722e6f9ac89b57542c4590e"
+    "bytes": 4023,
+    "sha256": "eea4cdf0f139279ab729477180a41b979fff6477a40b8f0327f1cf82d263bcb1"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p1/visuals/6df29775538d45f1a0bd/visual.json",
-    "bytes": 3976,
-    "sha256": "ecbc13c0a96e9baeb8593f16455dad7bfcc1a270adb3b2ac5a23acbccba13a2d"
+    "bytes": 3978,
+    "sha256": "3f9d31aa858506f5e7678832ea9f55a4d14da577743a849dde3165fe478a6190"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p1/visuals/9a46b15f2e234d84934a/visual.json",
-    "bytes": 3981,
-    "sha256": "32e2a58c4ef4481c5c98a1c2a8d35df52729ed237e56317471b6d0892ac626c2"
+    "bytes": 3983,
+    "sha256": "423cf48dcc1a908a28e52fbff43aaa1a11582bb3fa67af72ce60b83c717f2e2b"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p1/visuals/a83aed76feef46fab9d4/visual.json",
-    "bytes": 3278,
-    "sha256": "e9f9f6881b4d3716fa3c8c01309acbe3b07de66d7b27e070dff379b349de9f6a"
+    "bytes": 3281,
+    "sha256": "7a056226918737c14c0766a6252131e249d8985a9eccb4caa3a2b4ca6cc4a617"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p1/visuals/edb9ffe91d3d445ca1e8/visual.json",
-    "bytes": 1462,
-    "sha256": "fe96eb1943e15561e4ed1ddccae602f991449d67531bc9ed360838b66a1870c0"
-  },
-  {
-    "path": "powerbi/Loan_Portfolio.Report/definition/pages/p1/visuals/f7e321d1cf904aff96c4/visual.json",
-    "bytes": 1562,
-    "sha256": "24fe57a384f38d77feb70b2cc99221cbca5fe2811d13a8a83424c8e9e390487f"
+    "bytes": 1470,
+    "sha256": "8135d810371b0ddeeedeb2d112adb3e555e584b03b8b95a7be51f8676bfc2137"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p2/page.json",
-    "bytes": 609,
-    "sha256": "dbee6e8011a9f60f746378af74f384b05cd4c2ecd6d595df4f5423abf92b9dd9"
+    "bytes": 605,
+    "sha256": "e5928ac17a2e5115f74d45911020c3f4b10ee70e30b90ef1a52b060772d19cd5"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p2/visuals/220bc05534584badaf15/visual.json",
-    "bytes": 4975,
-    "sha256": "b90fccf85703df01f84dc72e7514911f1a2ab3d0845d9581c5bbc89deb935913"
-  },
-  {
-    "path": "powerbi/Loan_Portfolio.Report/definition/pages/p2/visuals/25080e0639934dcdb2f0/visual.json",
-    "bytes": 1567,
-    "sha256": "a7d75cd132cd7bdc160b8c625b8c683f7207494facbb3756841c9d17a7c3ed2a"
+    "bytes": 4977,
+    "sha256": "f54ddcb40b2044c025fec3216331d9df854a29f1e10ccca1c0bd15c9a9a6dc45"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p2/visuals/29fc7f6b66464f33826b/visual.json",
-    "bytes": 3991,
-    "sha256": "41f86460d75968143ff76c3c833fbc8d3f60dd487668c3dda7ac2a3a5daf2c3a"
+    "bytes": 3993,
+    "sha256": "f7f2b835c78c2cc1be69ca82db07f283e367c55e620d425610f6403791dadb20"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p2/visuals/6c277c2de47c45c69feb/visual.json",
-    "bytes": 3980,
-    "sha256": "519b188d967a854b27452c155b59e3cd110bc0a1ffd173b50f6d62d1714b1712"
+    "bytes": 3982,
+    "sha256": "5f8a3b153fa2f16ed60f4cbb320803dcc470a76cd6e5411be6a489e7ad50e949"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p2/visuals/93e8e7a370f949e4ac6d/visual.json",
-    "bytes": 3969,
-    "sha256": "bbeb8e70a61efe92bc172759cfb1dd3d809bcd8d9b4126362e58355c444805ff"
+    "bytes": 3971,
+    "sha256": "99314e343539e29ee95661831c308d607fafc089b6f6145ab9355886bf971957"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p2/visuals/95d4e298cec44b76b48e/visual.json",
-    "bytes": 3278,
-    "sha256": "3df757319e1e4cd30d359ebffe6125dbf0e0cc243ae7bda4bd3cfd7256ab9f87"
+    "bytes": 3281,
+    "sha256": "21bec4e740c4af377268f778f807370d6a8e1a44b9e2b5880fc5cc062491f7c0"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p2/visuals/9748d7da79594eee84d0/visual.json",
-    "bytes": 3953,
-    "sha256": "d3a3bb4b0b8e6193301c83758966f9e7e5cc08b3604f0a7746e6ce1fc10f0bc2"
+    "bytes": 3955,
+    "sha256": "a313768e37dfcf1a44aa7519531507c2c522a9fe7d54eac59dc4f37d0dab9ce6"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p2/visuals/9dfe83c05ec34bfb99f8/visual.json",
-    "bytes": 3273,
-    "sha256": "83037bb0d341656f29c0681b59f19cbc6a98749194af747303f401953ca06dc0"
+    "bytes": 3278,
+    "sha256": "fb9b0430c33211a20105c401d15e2dc886e51f97627130e68555a0e553499732"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p2/visuals/b95dd621afc640389d72/visual.json",
-    "bytes": 1465,
-    "sha256": "1525cdda5e0071c19ce2d59a6c04059bac66d4da2ad4b6077ee3b461ca86a0ab"
+    "bytes": 1461,
+    "sha256": "42e413e42fc4c89b98c8d0c01d68af2ed19f08d072ea7a8f8a3da6bd03577193"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p2/visuals/bbb792977c5144b08bcf/visual.json",
-    "bytes": 3996,
-    "sha256": "c834d205bbeb88b00e83f5063f8a1fa6e8eb98d52aeb558a6da1e22301d54654"
+    "bytes": 3998,
+    "sha256": "6cfdfb19899cf0139e083b7e4d348c990c9e3e042efd97940d426967d46d4bec"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p2/visuals/be67e4a5b11d4408a4b6/visual.json",
-    "bytes": 4001,
-    "sha256": "f2a1f63982555255e20bf79f86322f015489205e2db25e921eff3fcfd16c3fde"
+    "bytes": 4003,
+    "sha256": "a8e817fc15f0e214f5d3870470eff39965b81f768fb5b214e3cc8f4d623f0519"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p3/page.json",
-    "bytes": 605,
-    "sha256": "2ba6821ee6d684a7d8f73b2775bde12cf2393eb5651d05102ddfb6d2c81fa6aa"
+    "bytes": 607,
+    "sha256": "c94e0b77220fd53bf733894d4786f91b4b34d9e65b6006756c4670c92f15b3e2"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p3/visuals/12c849b18bba4e5a9912/visual.json",
-    "bytes": 3931,
-    "sha256": "1f1b4d29cfac6527db215d25d08220406da3fe818bc1c10bca4d47942b320276"
+    "bytes": 3933,
+    "sha256": "a65f2f7caeeeb0a2a6d2f4908e071660681521c215544bca858cb5e6acdb242c"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p3/visuals/1fbb863b775848d89252/visual.json",
-    "bytes": 3977,
-    "sha256": "4dfaf0614dc8a5695140599c52b6d4594bb505391a06d87c2ea239ff1b6353c5"
+    "bytes": 3979,
+    "sha256": "055eb6d6354f77c635680fe4c34a36eed8b0549c1af9a07c193f06f2e10e97bd"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p3/visuals/212c299104a445df9ffb/visual.json",
-    "bytes": 3278,
-    "sha256": "2675f5da5d89899b3839d1c6aa9f6d35a0ec2ce2ea1f43aef7d753c02d40202f"
+    "bytes": 3281,
+    "sha256": "03c7d191f21a4cbb522b4ae6dcd81d47bd22c5aca3d0fe9c941840535e396b14"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p3/visuals/31c6a18b29e948cca969/visual.json",
-    "bytes": 4026,
-    "sha256": "4ed44316ba9078836f2ce2e405c9fcc49c679ca3243ca38cbccba6aa11ea3e8d"
-  },
-  {
-    "path": "powerbi/Loan_Portfolio.Report/definition/pages/p3/visuals/3483c9e3e8874f669c0e/visual.json",
-    "bytes": 1574,
-    "sha256": "742259664e3082b98e714e2f04cf708f7c30e2b2100f781af6e31df7e2d340fc"
+    "bytes": 4028,
+    "sha256": "f2f58f41c625b0ab5a229832a81d46b5e9c601f1168bc1ae60ed38dc96d23c9e"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p3/visuals/4368f93a6bae41ab885c/visual.json",
-    "bytes": 4011,
-    "sha256": "db4fa3b2eac6a11439f2059ffdb82012324fca9e21cc29aec38398f4515c7df2"
+    "bytes": 4013,
+    "sha256": "5388295cbfa124e3e2ffc753bc584c7baf31d4b6ffc16bde0cf2150b4ade6c0b"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p3/visuals/54bccab3a20c4ef58955/visual.json",
-    "bytes": 3248,
-    "sha256": "f68c6d404bc5feb57c75a2456a7a7e7dcfce77eac7bc88f19ae1dd91f723940e"
+    "bytes": 3250,
+    "sha256": "5d9a0306248273444bf28aecf909945a77316c786b3db25739d56cd81158a682"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p3/visuals/70ba69499a194771b1d9/visual.json",
-    "bytes": 3991,
-    "sha256": "4797326bc8280b269d21cf0dd77440e49df57f37232051fab53677907084a0da"
+    "bytes": 3993,
+    "sha256": "6b9f97c7925be631296ccb75206da63830caa7c72b996522deb5203ddc353c29"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p3/visuals/a7ad154fcf5c4d1485fe/visual.json",
-    "bytes": 1461,
-    "sha256": "8b2eda05f6c150ba73103837d1dd86efb5f8cc65ddb04f5313747d532862ae9b"
+    "bytes": 1463,
+    "sha256": "6a7d6fcada72ebe22e9400f007c42b6471a636391bccd4fb1cce627bdf144982"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p3/visuals/c5bd6aded5cc4a7199ad/visual.json",
-    "bytes": 4010,
-    "sha256": "eee23fd512b466425b21d7f36dc07d7f7b9619a594b55ec66a89dd435575b680"
+    "bytes": 4012,
+    "sha256": "0bcb725f58b7f41a1b34a6a6ce7930e1627ffe3df14f1506042b07b68cd50c24"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p3/visuals/dd34463eb80c4a7eb03c/visual.json",
-    "bytes": 3978,
-    "sha256": "adcff8d913732a6eb550fb9b3a26f23698bdbc541e909f2f3b218a5302134115"
+    "bytes": 3980,
+    "sha256": "f40583512e3c7fd91e592efd9e6f079dc139e583887cb8c3462d19dc8cc40904"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p3/visuals/e2c361cf77f44a6dbd2d/visual.json",
-    "bytes": 3991,
-    "sha256": "3cd0ab72e66df4e5d44b085faa9aed414016fe24cd26a1b88fdce4f5e925adf9"
+    "bytes": 3993,
+    "sha256": "86465f7a21963c8df01ea4ac291064b2be91766848fd5aba4e304b6f12473a4a"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p4/page.json",
     "bytes": 608,
-    "sha256": "d95e4cd56a85386c9abac616da9fc75fec93c5b73a5382809105db2ef841ccdf"
+    "sha256": "f9b878bb4191e2bb603bf136036b04d668bd62432fcf59074bc74b647b1eca40"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p4/visuals/07cd5658f8b24a55bb68/visual.json",
     "bytes": 1464,
-    "sha256": "bb8197bcccab61604b69a33b254e45bd39fd16523a72a22fd1e4ca04e0758139"
+    "sha256": "5bfc498022d00ffa07f457781da6b3bce29bb43d057bd740b8cb49596f0b0598"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p4/visuals/4159677f89d748cd900e/visual.json",
-    "bytes": 4768,
-    "sha256": "525820965c8b8b3a82a7257f7e84d78a77b49b672261c7d9ed2bf6ec82e9f4de"
+    "bytes": 4770,
+    "sha256": "72f9d60a76f7f3e3c6af28eefec6f508f193c5e01c215bd5a362a0c267a0b41f"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p4/visuals/4abf9d1605e642ea8792/visual.json",
-    "bytes": 4015,
-    "sha256": "9e35ff0cc781d3da1a4d9ede8c4b13b7770f2087ff7103f46f7c7f0d9906d5c9"
-  },
-  {
-    "path": "powerbi/Loan_Portfolio.Report/definition/pages/p4/visuals/68b928eb85b34d619c0f/visual.json",
-    "bytes": 1565,
-    "sha256": "a3db6050e634fdbe214bdea44974a5489eb92205cb596e796091941d7e16a7de"
+    "bytes": 4017,
+    "sha256": "143df78fe17bb3f9116e94c8c296e72a3d614d128855351d19496c49253462d4"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p4/visuals/70ba4ecff4fe456c882d/visual.json",
-    "bytes": 3278,
-    "sha256": "a885b21a487b05674ee12e574aa8e7d1701aab0439ebc8072737ff2dcbbcadc0"
+    "bytes": 3281,
+    "sha256": "c24310658d8f869b2d2045ecc382fa7a4b54fdcf77cf40868f921bb1bda7e3e7"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p4/visuals/8fa910268b56494881b1/visual.json",
-    "bytes": 4006,
-    "sha256": "505bd8ed8fa59dab5e26cfd8854e9c773f34fdd36ff065508ed56d94a9015bf5"
+    "bytes": 4008,
+    "sha256": "805de317dedfce640a877e7b85ef6256804a80bb3d442f98450a29024d1be2b8"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p4/visuals/a13cbac028dd4e3ca068/visual.json",
-    "bytes": 4006,
-    "sha256": "a9c0683b22bf564424b7e5e74723c0fef4f72918795be5a87f4f0f723033f8f5"
+    "bytes": 4008,
+    "sha256": "042f2780e58ba34c93bc9e3f4889fd44bb8cbe415e19557b6701f75cd63ca758"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p4/visuals/aa7bbc795810470c86c9/visual.json",
-    "bytes": 3258,
-    "sha256": "174e61ef925ac031c5f375493f8feb16c09c7615c926689836e1d3dc75f63490"
+    "bytes": 3260,
+    "sha256": "975d96fb97c226819500448e5a87411d72068d6aa3e34b21e7d781ef9e8c8156"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p4/visuals/aac91c9594f84859a8b5/visual.json",
-    "bytes": 3976,
-    "sha256": "6bc0fd724280bfb7542a798a44b0ecc6fbec42f65d71b570a3844da0a0e5439d"
+    "bytes": 3978,
+    "sha256": "a17a6513c954cf25f942408923fe9553252658f70c97757c4c4281e14446ade7"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p4/visuals/cca30aa98a0e45179e1d/visual.json",
-    "bytes": 5344,
-    "sha256": "210c1aa0cc5c513457b2cafefc1fa3cdc1b57dc42cf417881dca9c74b8f89659"
+    "bytes": 5346,
+    "sha256": "7c0d2a122705c54cb4216a2eca73636d1abbe22b481b7b27c2d1b2243739dae2"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p4/visuals/de59276754c04e638ce9/visual.json",
-    "bytes": 3983,
-    "sha256": "8cbe37b9fb9a332b1e7b87fff4f9bcde614ebf4902e7b116d1d5117d7dc6e245"
+    "bytes": 3985,
+    "sha256": "58da47105d5ae02aca063b305a227b9e8eeeac4c6ba463e552e042e1ef7bcd7e"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/pages.json",
-    "bytes": 248,
-    "sha256": "67350b9752e452ac11c93a83375a495ec2d06376714343485642b43d01bf3323"
+    "bytes": 242,
+    "sha256": "c3889bd3b08896093ca8b1f5d64e104e1936a4e05975ffe8ad643c76a4b69e3c"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/report.json",
@@ -433,6 +408,11 @@
     "path": "powerbi/OPEN_REPORT.md",
     "bytes": 591,
     "sha256": "ffc47628448f9228e0f393d918a248b81164aae16650685272734f9db48f306b"
+  },
+  {
+    "path": "powerbi/REPORT_NOTES.md",
+    "bytes": 799,
+    "sha256": "8aaf891fb23a77156705842c4c8b553a426b670cf1c3d29ef5b807ed61dd44cb"
   },
   {
     "path": "powerbi/measures.dax",

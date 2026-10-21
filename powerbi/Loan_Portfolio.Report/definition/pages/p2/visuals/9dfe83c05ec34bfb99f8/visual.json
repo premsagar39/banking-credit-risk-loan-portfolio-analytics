@@ -64,7 +64,7 @@
             "text": {
               "expr": {
                 "Literal": {
-                  "Value": "'TermMonths'"
+                  "Value": "'Term (Months)'"
                 }
               }
             },
