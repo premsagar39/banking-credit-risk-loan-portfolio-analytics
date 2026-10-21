@@ -396,8 +396,8 @@
   },
   {
     "path": "README.md",
-    "bytes": 3612,
-    "sha256": "85f57436746795581f1942c95e5a6300698b35d328909b93437a19c60b479f16"
+    "bytes": 4014,
+    "sha256": "bcca6ba7c4611ea6d11e59f5d8115d26771c18338c65c85b0fe7bc2e8089d374"
   },
   {
     "path": "reports/BUSINESS_FINDINGS.md",
@@ -451,13 +451,13 @@
   },
   {
     "path": "reports/PUBLICATION_CHECKLIST.md",
-    "bytes": 703,
-    "sha256": "840794e13e30df6736d2ef534d45539901ecb7023fd51adf24a4d14fca4d7448"
+    "bytes": 942,
+    "sha256": "de2fa846cb50619a9109ddce679bf9581f496bd17d1742d34aefeaea86a47aff"
   },
   {
     "path": "reports/QA_STATUS.md",
-    "bytes": 1098,
-    "sha256": "1a2718b7142a6aeb114401093dc543deceecc073d43196e74294715749da85eb"
+    "bytes": 1200,
+    "sha256": "03834564be6a637b7e6654595e4b09cf40194f2c81eacdd2dce310ecdf618589"
   },
   {
     "path": "reports/report_schema_validation.json",

@@ -13,4 +13,4 @@
 | Forecast leakage protection | Not applicable | No predictive claim |
 | Evidence-based findings | Pass | No fabricated uplift, default estimate or model accuracy |
 | Public GitHub publication | Published | https://github.com/premsagar39/banking-credit-risk-loan-portfolio-analytics |
-| LinkedIn publication | Not Yet Verified | Drafts only |
+| LinkedIn publication | Published | [Project post](https://www.linkedin.com/feed/update/urn:li:activity:7518476174268710912/); included in LinkedIn Featured |

@@ -1,12 +1,18 @@
 # Banking Credit Risk and Loan Portfolio Analytics
 
-Analyzes 2.26m accepted loans with chunked ingestion, MySQL controls, descriptive outcome and vintage analysis.
+A descriptive review of LendingClub's historical accepted-loan portfolio. The analysis separates resolved outcomes from current exposure so that grade and vintage comparisons have an explicit denominator.
 
 ![Analysis overview](reports/figures/portfolio_overview.png)
 
-**Tools:** Python, pandas, NumPy, MySQL 8, SQLAlchemy, Power Query, Power BI and DAX. The project contains 20 executed MySQL business queries and 24 report measures. Historical analysis; no claimed realized business uplift.
+**Tools:** Python, pandas, NumPy, MySQL 8, SQLAlchemy, Power Query, Power BI and DAX. The project contains 20 executed MySQL business queries and 24 report measures. 
 
-## Business decision
+## Portfolio findings
+
+- **2,260,668 valid loans** represent **USD 34.00bn in funded principal**.
+- **269,320 charged-off loans / 1,348,059 resolved loans = 19.98%**. This is an observed resolved-outcome share, not a lifetime default estimate.
+- Only **59.63% of loans are resolved**. Comparing vintages requires checking that coverage alongside the outcome share.
+
+## Analysis question
 
 Where do funding, unresolved exposure and observed charged-off outcomes concentrate, and how does maturity affect comparisons across vintages and grades?
 
