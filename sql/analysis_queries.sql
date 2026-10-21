@@ -57,3 +57,14 @@ SELECT StatusGroup,COUNT(*) Loans,SUM(FundedAmount) FundedAmount,SUM(Outstanding
 
 -- Q20: Year-over-year monthly issuance
 WITH m AS (SELECT IssueMonth,SUM(FundedAmount) FundedAmount FROM loans GROUP BY IssueMonth) SELECT a.IssueMonth,a.FundedAmount,b.FundedAmount PriorYearFunding,a.FundedAmount/NULLIF(b.FundedAmount,0)-1 YoYGrowth FROM m a LEFT JOIN m b ON b.IssueMonth=DATE_FORMAT(DATE_SUB(STR_TO_DATE(CONCAT(a.IssueMonth,'-01'),'%Y-%m-%d'),INTERVAL 1 YEAR),'%Y-%m') ORDER BY a.IssueMonth;
+
+-- Q21: Vintage outcomes and coverage against a weighted within-grade benchmark
+WITH v AS (
+ SELECT Grade,VintageYear,COUNT(*) Loans,SUM(ResolvedFlag) ResolvedLoans,SUM(BadResolvedFlag) ChargedOffLoans
+ FROM loans GROUP BY Grade,VintageYear
+)
+SELECT *,ResolvedLoans*1e0/NULLIF(Loans,0) ResolvedCoverage,
+ ChargedOffLoans*1e0/NULLIF(ResolvedLoans,0) ChargedOffShare,
+ 100*(ChargedOffLoans*1e0/NULLIF(ResolvedLoans,0)-SUM(ChargedOffLoans) OVER(PARTITION BY Grade)*1e0/NULLIF(SUM(ResolvedLoans) OVER(PARTITION BY Grade),0)) OutcomeGapPP,
+ 100*(ResolvedLoans*1e0/NULLIF(Loans,0)-SUM(ResolvedLoans) OVER(PARTITION BY Grade)*1e0/NULLIF(SUM(Loans) OVER(PARTITION BY Grade),0)) CoverageGapPP
+FROM v ORDER BY Grade,VintageYear;

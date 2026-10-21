@@ -10,6 +10,21 @@
     "sha256": "83ef78c3d774258c495f5eb931203e4af9e1376261281264b722177ab9eaa6a3"
   },
   {
+    "path": "LICENSE",
+    "bytes": 1176,
+    "sha256": "e99ee86dbf4795af594bc94ef4529bb3d18141bfd9a15fe479728a4775668aa6"
+  },
+  {
+    "path": "README.md",
+    "bytes": 4788,
+    "sha256": "744e87bfa09917e3d8fcadfc267cd84c040663f86bc4a1eccfc3868f5ed67f93"
+  },
+  {
+    "path": "data/exports/comparison_review.csv",
+    "bytes": 1096,
+    "sha256": "2cb1485437a4721d2766bbc92372dccefeec3a9269928bffdfb9dc0f225eb860"
+  },
+  {
     "path": "data/exports/dti_portfolio.csv",
     "bytes": 860,
     "sha256": "0d6fe5e0e2b661422b05692c10b670dd4de0fffad53d2dfa556222b9db86c039"
@@ -65,24 +80,59 @@
     "sha256": "93f986f958ea88685f8f47978d757647bd447e2fb15eaff87998023385a38c95"
   },
   {
-    "path": "LICENSE",
-    "bytes": 1176,
-    "sha256": "e99ee86dbf4795af594bc94ef4529bb3d18141bfd9a15fe479728a4775668aa6"
-  },
-  {
     "path": "notebooks/01_analysis.ipynb",
     "bytes": 14967,
     "sha256": "09b88aaf96529c289a13c1aa5d97b0d09ebcc1fec7df9d48709adc3d40a0de89"
   },
   {
-    "path": "powerbi/Loan_Portfolio.pbip",
-    "bytes": 186,
-    "sha256": "086ec0bda5c15297d222908077c3e7f1d2941fc2fba3a303c98ba69d81d90f53"
-  },
-  {
     "path": "powerbi/Loan_Portfolio.Report/.platform",
     "bytes": 308,
     "sha256": "75d0d431e21f5be8dfa5d67aeb0c1de65e6d3ca1b4ce756783e8c8102bbd02f9"
+  },
+  {
+    "path": "powerbi/Loan_Portfolio.Report/StaticResources/RegisteredResources/FocusedTheme.json",
+    "bytes": 581,
+    "sha256": "354100e6bca25ffd34598310bf3d6ef218b6a6bad2e696360c31428edaa737dd"
+  },
+  {
+    "path": "powerbi/Loan_Portfolio.Report/definition.pbir",
+    "bytes": 128,
+    "sha256": "d57bc508f9153b3b63251d5bfc3cda95a60d40ebae3f851751e05256b791d066"
+  },
+  {
+    "path": "powerbi/Loan_Portfolio.Report/definition/pages/comparison/page.json",
+    "bytes": 770,
+    "sha256": "70e96fcc5407d020c4169f60283a6c780f95f019fe4152b744e325c3d7bac973"
+  },
+  {
+    "path": "powerbi/Loan_Portfolio.Report/definition/pages/comparison/visuals/0ac86e77fced5089895c/visual.json",
+    "bytes": 5940,
+    "sha256": "3c52f2ce6a5e348233a4ce0483131c06aa17bb3e58fcb90e586930d56c637034"
+  },
+  {
+    "path": "powerbi/Loan_Portfolio.Report/definition/pages/comparison/visuals/26bb11d8b1365174a6f4/visual.json",
+    "bytes": 3435,
+    "sha256": "6e5b583fd24fa86caca4dcb463ea2bb42e9f5585987ea1e5f78b4cd135965d0b"
+  },
+  {
+    "path": "powerbi/Loan_Portfolio.Report/definition/pages/comparison/visuals/7e3703e92daa57a992dd/visual.json",
+    "bytes": 5008,
+    "sha256": "ffe5652032757aca1ba471b83434abd8347f33ddcd6782b166daabb383ead0e5"
+  },
+  {
+    "path": "powerbi/Loan_Portfolio.Report/definition/pages/comparison/visuals/877fa5104d045fa4b0de/visual.json",
+    "bytes": 5876,
+    "sha256": "df1a198913e8f290229a8fc59e3d7a7e8948a166a4c432b2d1c77fb445d9ba56"
+  },
+  {
+    "path": "powerbi/Loan_Portfolio.Report/definition/pages/comparison/visuals/c707cfd1334c59e3a2c7/visual.json",
+    "bytes": 1596,
+    "sha256": "d67ca47311147d1cd3857ca178efa10fbb8e4d15f2f49fe9306bc50c7afedbf5"
+  },
+  {
+    "path": "powerbi/Loan_Portfolio.Report/definition/pages/comparison/visuals/d98be12295b65e02ab54/visual.json",
+    "bytes": 1462,
+    "sha256": "5486134b3a7a1afa7f5e2241b061ea27252662b6b4e025aec928a006bd2e8330"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/p1/page.json",
@@ -336,23 +386,18 @@
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/pages/pages.json",
-    "bytes": 221,
-    "sha256": "d2490c345b5cf200056e46e8a914035a174075b9e94a19b27d4777c46baeb7f3"
+    "bytes": 248,
+    "sha256": "67350b9752e452ac11c93a83375a495ec2d06376714343485642b43d01bf3323"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/report.json",
-    "bytes": 203,
-    "sha256": "8370abf3af3cb79df265e87f7fca836be65e2fe43e8645d04f423ac231be0284"
+    "bytes": 707,
+    "sha256": "a00271b5f0f09ff9b05397af2a74b40cd39b9f999a4c21258184f47b0a4f864d"
   },
   {
     "path": "powerbi/Loan_Portfolio.Report/definition/version.json",
     "bytes": 152,
     "sha256": "c8bdd966a85f1eaab4312d2096b6d7b508243e4d7bc5a4d25af3cfcb1056a4e7"
-  },
-  {
-    "path": "powerbi/Loan_Portfolio.Report/definition.pbir",
-    "bytes": 128,
-    "sha256": "d57bc508f9153b3b63251d5bfc3cda95a60d40ebae3f851751e05256b791d066"
   },
   {
     "path": "powerbi/Loan_Portfolio.SemanticModel/.platform",
@@ -371,18 +416,18 @@
   },
   {
     "path": "powerbi/Loan_Portfolio.SemanticModel/model.bim",
-    "bytes": 245718,
-    "sha256": "4667115d5b1ad2fa52269df6f35a6cb2c999b77f082562eb6526d518d0fe8ea5"
+    "bytes": 246768,
+    "sha256": "f33777d5d1a739640683fb431b961e00a865bbf8f3565bc5062cf1b6e934d41a"
+  },
+  {
+    "path": "powerbi/Loan_Portfolio.pbip",
+    "bytes": 186,
+    "sha256": "086ec0bda5c15297d222908077c3e7f1d2941fc2fba3a303c98ba69d81d90f53"
   },
   {
     "path": "powerbi/MEASURE_DEFINITIONS.md",
-    "bytes": 2914,
-    "sha256": "520f8976985cfd7b1531f2556cf7dc8ac1556123f7d2ebc10d3eb59e91750e46"
-  },
-  {
-    "path": "powerbi/measures.dax",
-    "bytes": 1800,
-    "sha256": "6e1f3e6637e4f25ee3fa789257d0d98ac54aa997fdcd050e485d57cf436d4b36"
+    "bytes": 3473,
+    "sha256": "76e2db90c6f841bcf1175f5a606f55a356d6c2c2ee747004b994306fe7c71425"
   },
   {
     "path": "powerbi/OPEN_REPORT.md",
@@ -390,19 +435,34 @@
     "sha256": "ffc47628448f9228e0f393d918a248b81164aae16650685272734f9db48f306b"
   },
   {
+    "path": "powerbi/measures.dax",
+    "bytes": 2143,
+    "sha256": "8da1cf3a15d548707eb7b89b87597f2ddae42e19cfc4640a3f73100880b2d72f"
+  },
+  {
+    "path": "powerbi/theme.json",
+    "bytes": 581,
+    "sha256": "354100e6bca25ffd34598310bf3d6ef218b6a6bad2e696360c31428edaa737dd"
+  },
+  {
     "path": "pytest.ini",
     "bytes": 64,
     "sha256": "7791f8a30002e1894c931553bec9826e7d7db30bc62b235c18909648837c420d"
   },
   {
-    "path": "README.md",
-    "bytes": 4014,
-    "sha256": "bcca6ba7c4611ea6d11e59f5d8115d26771c18338c65c85b0fe7bc2e8089d374"
-  },
-  {
     "path": "reports/BUSINESS_FINDINGS.md",
     "bytes": 1131,
     "sha256": "23abdc199d7115407b25cea7ff37da194c483ebd3c16ea2e6927e31a89c7a699"
+  },
+  {
+    "path": "reports/COMPARISON_VALIDATION.md",
+    "bytes": 421,
+    "sha256": "cfe034fa945f703f4d947e133bf419ef1823a3d9d8805492317d29e17a4dc3b8"
+  },
+  {
+    "path": "reports/Comparison_Dashboard.html",
+    "bytes": 9144,
+    "sha256": "4c1de489fc64ca5ba237975e8fad735b080928aac873ba9b2799d3bc3d4ba283"
   },
   {
     "path": "reports/DATA_DICTIONARY.md",
@@ -413,6 +473,41 @@
     "path": "reports/DATA_QUALITY.md",
     "bytes": 1562,
     "sha256": "a21d6dd75146d505775fdd2bbafc236bc3b34e4d46418a3f2dc7a8a53920c7fc"
+  },
+  {
+    "path": "reports/INTERVIEW_GUIDE.md",
+    "bytes": 1443,
+    "sha256": "8d692374038aef1523b0a7cde3513fa6d17cefca18dc7cf32ae4f130ad3756c9"
+  },
+  {
+    "path": "reports/Interactive_Dashboard.html",
+    "bytes": 4910207,
+    "sha256": "f01b56228067da8e37a639357df329eeb51af06c7dc2dbbc08e060265b128ed0"
+  },
+  {
+    "path": "reports/PUBLICATION_CHECKLIST.md",
+    "bytes": 942,
+    "sha256": "de2fa846cb50619a9109ddce679bf9581f496bd17d1742d34aefeaea86a47aff"
+  },
+  {
+    "path": "reports/QA_STATUS.md",
+    "bytes": 1414,
+    "sha256": "5ecef4a18b5a6f700be6f9cd14e11c1afa722afab6b95c17df44abd4787c9e1e"
+  },
+  {
+    "path": "reports/comparison_native_validation.json",
+    "bytes": 378,
+    "sha256": "2a85e1147812f71eaa655ecdef27dab4212b5432b24b66da0fa4e36551fc314f"
+  },
+  {
+    "path": "reports/comparison_validation.json",
+    "bytes": 258,
+    "sha256": "fcf4fab0f9a799bfe1af72c53ed5bcd375f7b4be19be2acf1129e6c1d98c09a8"
+  },
+  {
+    "path": "reports/figures/comparison_review.png",
+    "bytes": 111248,
+    "sha256": "7615596bba6f516d4a572df48f4e63ff3fa2145acdfd83faada2b5b8ec6d0c0d"
   },
   {
     "path": "reports/figures/native_credit_page.png",
@@ -430,34 +525,14 @@
     "sha256": "cbace17eb86cb2fa1bf921f7089cea715ebdb8f230d6a50428cf5bb0d185f354"
   },
   {
-    "path": "reports/Interactive_Dashboard.html",
-    "bytes": 4910207,
-    "sha256": "f01b56228067da8e37a639357df329eeb51af06c7dc2dbbc08e060265b128ed0"
-  },
-  {
-    "path": "reports/INTERVIEW_GUIDE.md",
-    "bytes": 1443,
-    "sha256": "8d692374038aef1523b0a7cde3513fa6d17cefca18dc7cf32ae4f130ad3756c9"
-  },
-  {
     "path": "reports/metrics.json",
     "bytes": 1232,
     "sha256": "45117fddd1829caa0709f0bd9623b3b1ef7d40f82c12d201e64d07ab64595c34"
   },
   {
     "path": "reports/mysql_validation.json",
-    "bytes": 554,
-    "sha256": "332235c654bb2adc37780d04a6b0154cce7f89816de1164c9c931b961ed44c92"
-  },
-  {
-    "path": "reports/PUBLICATION_CHECKLIST.md",
-    "bytes": 942,
-    "sha256": "de2fa846cb50619a9109ddce679bf9581f496bd17d1742d34aefeaea86a47aff"
-  },
-  {
-    "path": "reports/QA_STATUS.md",
-    "bytes": 1200,
-    "sha256": "03834564be6a637b7e6654595e4b09cf40194f2c81eacdd2dce310ecdf618589"
+    "bytes": 599,
+    "sha256": "66ba9936aeb2743232118f69d904efddcc871ee7cb2d07e90d43a97f84030cf1"
   },
   {
     "path": "reports/report_schema_validation.json",
@@ -466,8 +541,8 @@
   },
   {
     "path": "reports/sql_execution.json",
-    "bytes": 3108,
-    "sha256": "70e2516907d6d267f069e9bcc5437d183fd4730321d33dd38b1ef48473a950fa"
+    "bytes": 3371,
+    "sha256": "381a30c3cfe15805929956369a0b8710185011002659df19a021b3d56ab5da73"
   },
   {
     "path": "reports/sql_results/q01.csv",
@@ -570,6 +645,11 @@
     "sha256": "996a945ed6bdcc2af26eae0eec49f96afadff17502e33f71f148d1525aefeadb"
   },
   {
+    "path": "reports/sql_results/q21.csv",
+    "bytes": 7727,
+    "sha256": "272da03f1de90868ef8e9a337763ef722be6322c33cc251c559a42ef6fa45d3c"
+  },
+  {
     "path": "reports/unit_validation.json",
     "bytes": 130,
     "sha256": "780de9f2729b84cd87aac8f27a7eab79eaa54969040fa598cfaae3e77d9dffb9"
@@ -586,8 +666,8 @@
   },
   {
     "path": "sql/analysis_queries.sql",
-    "bytes": 5582,
-    "sha256": "c88e57991ce1f11c82a8ae3ce0900e94f229056b91da86b0c8db24a76cbba3a8"
+    "bytes": 6315,
+    "sha256": "48f030ccbbbf3a5d71eb3cf3e6a4e3bdb0240b8709d4dce2d1b2499da6185ddc"
   },
   {
     "path": "sql/schema.sql",
@@ -598,6 +678,11 @@
     "path": "src/__init__.py",
     "bytes": 0,
     "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "src/comparison_analysis.py",
+    "bytes": 5430,
+    "sha256": "40f5fab967c55a178dd97c6455513198f71ce9085bdcb87c73d4d9cbdbe3fbf9"
   },
   {
     "path": "src/database.py",

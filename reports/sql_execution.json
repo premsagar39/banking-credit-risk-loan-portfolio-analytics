@@ -187,5 +187,19 @@
       "PriorYearFunding",
       "YoYGrowth"
     ]
+  },
+  "Q21": {
+    "rows": 84,
+    "columns": [
+      "Grade",
+      "VintageYear",
+      "Loans",
+      "ResolvedLoans",
+      "ChargedOffLoans",
+      "ResolvedCoverage",
+      "ChargedOffShare",
+      "OutcomeGapPP",
+      "CoverageGapPP"
+    ]
   }
 }

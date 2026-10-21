@@ -7543,6 +7543,22 @@
             "expression": "VAR N=[Resolved Loans] VAR P=[Bad Resolved Share] RETURN IF(N>0,DIVIDE(P+3.8416/(2*N)+1.96*SQRT(P*(1-P)/N+3.8416/(4*N*N)),1+3.8416/N))",
             "formatString": "0.0%",
             "lineageTag": "6a8c4417-3a59-4586-80f5-f5b590a971dd"
+          },
+          {
+            "name": "Outcome Gap pp",
+            "expression": "VAR B=CALCULATE([Bad Resolved Share],ALLSELECTED(Loans[VintageYear])) RETURN IF(NOT ISBLANK([Bad Resolved Share]) && NOT ISBLANK(B),100*([Bad Resolved Share]-B))",
+            "formatString": "0.0 \"pp\";-0.0 \"pp\"",
+            "displayFolder": "Comparisons",
+            "description": "Charged-off share among resolved loans minus the selected-vintage weighted share; percentage points.",
+            "lineageTag": "dc538e04-bed8-565b-935e-e4323254eb48"
+          },
+          {
+            "name": "Coverage Gap pp",
+            "expression": "VAR B=CALCULATE([Resolved Share],ALLSELECTED(Loans[VintageYear])) RETURN IF([Loans]>0,100*([Resolved Share]-B))",
+            "formatString": "0.0 \"pp\";-0.0 \"pp\"",
+            "displayFolder": "Comparisons",
+            "description": "Resolved share minus selected-vintage weighted coverage; percentage points. Not a maturity adjustment.",
+            "lineageTag": "ab7d5727-d32d-534c-91b3-5348d382d6f8"
           }
         ],
         "partitions": [

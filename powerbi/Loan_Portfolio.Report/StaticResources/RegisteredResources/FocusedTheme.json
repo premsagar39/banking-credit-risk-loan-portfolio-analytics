@@ -1,0 +1,31 @@
+{
+  "name": "Loan_Portfolio Theme",
+  "dataColors": [
+    "#6254A5",
+    "#20304A",
+    "#D8A840",
+    "#8BB7B1",
+    "#B5A8D6",
+    "#D58E7D"
+  ],
+  "background": "#F3F6FA",
+  "foreground": "#17324D",
+  "tableAccent": "#6254A5",
+  "good": "#2B8C78",
+  "neutral": "#D8A840",
+  "bad": "#BC5B55",
+  "textClasses": {
+    "title": {
+      "fontFace": "Segoe UI",
+      "color": "#17324D"
+    },
+    "label": {
+      "fontFace": "Segoe UI",
+      "color": "#52687E"
+    },
+    "callout": {
+      "fontFace": "Segoe UI",
+      "color": "#6254A5"
+    }
+  }
+}

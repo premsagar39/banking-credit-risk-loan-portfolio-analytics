@@ -194,3 +194,19 @@ Format: `0.0%`
 ```dax
 VAR N=[Resolved Loans] VAR P=[Bad Resolved Share] RETURN IF(N>0,DIVIDE(P+3.8416/(2*N)+1.96*SQRT(P*(1-P)/N+3.8416/(4*N*N)),1+3.8416/N))
 ```
+
+## Outcome Gap pp
+
+Charged-off share among resolved loans minus the selected-vintage weighted share; percentage points.
+
+```dax
+VAR B=CALCULATE([Bad Resolved Share],ALLSELECTED(Loans[VintageYear])) RETURN IF(NOT ISBLANK([Bad Resolved Share]) && NOT ISBLANK(B),100*([Bad Resolved Share]-B))
+```
+
+## Coverage Gap pp
+
+Resolved share minus selected-vintage weighted coverage; percentage points. Not a maturity adjustment.
+
+```dax
+VAR B=CALCULATE([Resolved Share],ALLSELECTED(Loans[VintageYear])) RETURN IF([Loans]>0,100*([Resolved Share]-B))
+```
