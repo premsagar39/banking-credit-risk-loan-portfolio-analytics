@@ -3,8 +3,8 @@
   "name": "p1",
   "displayName": "Loan Portfolio Analytics",
   "displayOption": "FitToPage",
-  "height": 900,
   "width": 1440,
+  "height": 900,
   "objects": {
     "background": [
       {
@@ -13,15 +13,145 @@
             "solid": {
               "color": {
                 "expr": {
-                  "Literal": {
-                    "Value": "'#F3F6FA'"
+                  "ThemeDataColor": {
+                    "ColorId": 6,
+                    "Percent": 0
                   }
                 }
+              }
+            }
+          },
+          "transparency": {
+            "expr": {
+              "Literal": {
+                "Value": "0D"
               }
             }
           }
         }
       }
     ]
-  }
+  },
+  "visualInteractions": [
+    {
+      "source": "09a41e37f45d4529aa1a",
+      "target": "1eab1b85340244a184f4",
+      "type": "DataFilter"
+    },
+    {
+      "source": "09a41e37f45d4529aa1a",
+      "target": "2d09608ea21d4764952a",
+      "type": "DataFilter"
+    },
+    {
+      "source": "09a41e37f45d4529aa1a",
+      "target": "3249c05f381a4a0c83db",
+      "type": "DataFilter"
+    },
+    {
+      "source": "09a41e37f45d4529aa1a",
+      "target": "5c12ab984a39423d9ead",
+      "type": "DataFilter"
+    },
+    {
+      "source": "09a41e37f45d4529aa1a",
+      "target": "675e09329f7144ca9d01",
+      "type": "DataFilter"
+    },
+    {
+      "source": "09a41e37f45d4529aa1a",
+      "target": "6df29775538d45f1a0bd",
+      "type": "DataFilter"
+    },
+    {
+      "source": "09a41e37f45d4529aa1a",
+      "target": "9a46b15f2e234d84934a",
+      "type": "DataFilter"
+    },
+    {
+      "source": "09a41e37f45d4529aa1a",
+      "target": "3d43b3ff6f105e38949c",
+      "type": "DataFilter"
+    },
+    {
+      "source": "1eab1b85340244a184f4",
+      "target": "09a41e37f45d4529aa1a",
+      "type": "DataFilter"
+    },
+    {
+      "source": "1eab1b85340244a184f4",
+      "target": "2d09608ea21d4764952a",
+      "type": "DataFilter"
+    },
+    {
+      "source": "1eab1b85340244a184f4",
+      "target": "3249c05f381a4a0c83db",
+      "type": "DataFilter"
+    },
+    {
+      "source": "1eab1b85340244a184f4",
+      "target": "5c12ab984a39423d9ead",
+      "type": "DataFilter"
+    },
+    {
+      "source": "1eab1b85340244a184f4",
+      "target": "675e09329f7144ca9d01",
+      "type": "DataFilter"
+    },
+    {
+      "source": "1eab1b85340244a184f4",
+      "target": "6df29775538d45f1a0bd",
+      "type": "DataFilter"
+    },
+    {
+      "source": "1eab1b85340244a184f4",
+      "target": "9a46b15f2e234d84934a",
+      "type": "DataFilter"
+    },
+    {
+      "source": "1eab1b85340244a184f4",
+      "target": "3d43b3ff6f105e38949c",
+      "type": "DataFilter"
+    },
+    {
+      "source": "2d09608ea21d4764952a",
+      "target": "09a41e37f45d4529aa1a",
+      "type": "DataFilter"
+    },
+    {
+      "source": "2d09608ea21d4764952a",
+      "target": "1eab1b85340244a184f4",
+      "type": "DataFilter"
+    },
+    {
+      "source": "2d09608ea21d4764952a",
+      "target": "3249c05f381a4a0c83db",
+      "type": "DataFilter"
+    },
+    {
+      "source": "2d09608ea21d4764952a",
+      "target": "5c12ab984a39423d9ead",
+      "type": "DataFilter"
+    },
+    {
+      "source": "2d09608ea21d4764952a",
+      "target": "675e09329f7144ca9d01",
+      "type": "DataFilter"
+    },
+    {
+      "source": "2d09608ea21d4764952a",
+      "target": "6df29775538d45f1a0bd",
+      "type": "DataFilter"
+    },
+    {
+      "source": "2d09608ea21d4764952a",
+      "target": "9a46b15f2e234d84934a",
+      "type": "DataFilter"
+    },
+    {
+      "source": "2d09608ea21d4764952a",
+      "target": "3d43b3ff6f105e38949c",
+      "type": "DataFilter"
+    }
+  ]
 }

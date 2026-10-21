@@ -13,8 +13,9 @@
             "solid": {
               "color": {
                 "expr": {
-                  "Literal": {
-                    "Value": "'#F3F6FA'"
+                  "ThemeDataColor": {
+                    "ColorId": 6,
+                    "Percent": 0
                   }
                 }
               }
@@ -23,12 +24,34 @@
           "transparency": {
             "expr": {
               "Literal": {
-                "Value": "0"
+                "Value": "0D"
               }
             }
           }
         }
       }
     ]
-  }
+  },
+  "visualInteractions": [
+    {
+      "source": "0ac86e77fced5089895c",
+      "target": "7e3703e92daa57a992dd",
+      "type": "DataFilter"
+    },
+    {
+      "source": "0ac86e77fced5089895c",
+      "target": "877fa5104d045fa4b0de",
+      "type": "DataFilter"
+    },
+    {
+      "source": "7e3703e92daa57a992dd",
+      "target": "0ac86e77fced5089895c",
+      "type": "DataFilter"
+    },
+    {
+      "source": "7e3703e92daa57a992dd",
+      "target": "877fa5104d045fa4b0de",
+      "type": "DataFilter"
+    }
+  ]
 }
